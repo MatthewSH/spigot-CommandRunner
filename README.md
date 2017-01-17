@@ -30,3 +30,6 @@ Placeholders are split at the first `:`, so make sure the thing you want to repl
 ## Donate
 ### If you're enjoying my work, please consider donating to help me continue doing this kind of work.
 [![Donate](https://az743702.vo.msecnd.net/cdn/kofi1.png?v=f)](https://ko-fi.com/636QU7F12V5F)
+
+## Development Video
+[![Coding Off](https://img.youtube.com/vi/1Az8PV0VAyY/0.jpg)](https://www.youtube.com/watch?v=1Az8PV0VAyY)
