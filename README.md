@@ -20,9 +20,11 @@ Enable the use of the `placeholders`.
 ### Placeholders (`placeholders`)
 This is a list of placeholders you can use in the plugin. Say you have a group called `premium`, you can add the placeholder...
 ```
-- "%p%:premium`
+- "%p%:premium"
 ```
 So you only have to it all in one place in case you ever change that `premium` to `vip`. That's not a super practical use, but you get where I'm going. Usually people won't need this, as having a lot could cause lag in the startup of the server.
+
+Placeholders are split at the first `:`, so make sure the thing you want to replace is before that colon.
 
 
 ## Donate
