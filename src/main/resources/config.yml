@@ -1,0 +1,9 @@
+threshold: 5 # How many times should the command fail before we move on. Must be more than 0 or the plugin won't work.
+
+clear-on-finish: false # Should we empty out the commands file once we're done? Will erase "failed" commands too.
+
+dispatch-as: console # Who the commands will run as. If left to console, the console will run all commands. This usually shouldn't be messed with.
+
+use-placeholders: false # Enable this to be able to use placeholder. 
+placeholders: # Enabling placeholders MAY cause startup lag if the system has to do a lot of replacements.
+  - "%holder%:replacement"
